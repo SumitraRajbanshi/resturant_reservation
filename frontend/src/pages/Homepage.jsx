@@ -1,7 +1,7 @@
 import React from 'react'
-import Hero from '../Components/Hero'
-import Menu from '../Components/Menu'
-import ReservationForm from '../Components/ReservationForm'
+import Hero from '../Components/Hero.jsx'
+import Menu from '../Components/Menu.jsx'
+import ReservationForm from '../Components/ReservationForm.jsx'
 
 const Homepage = () => {
   return (

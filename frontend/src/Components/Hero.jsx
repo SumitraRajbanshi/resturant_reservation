@@ -1,5 +1,7 @@
 import React from 'react'
-import bgImage from '../assets/hero2.jpg'
+import bgImage from '../assets/Hero.jpg'
+
+
 
 const Hero = () => {
   return (
@@ -8,9 +10,9 @@ const Hero = () => {
   style={{ backgroundImage: `url(${bgImage})` }}
 >
 
-      {/* transparent dark overlay */}
+
       <div className='absolute inset-0 bg-gray-900 opacity-30 z-10'></div>
-      {/*Centered text content */}
+    
       <div className="relative z-20 flex flex-col items-center justify-center
   min-h-[calc(60vh-80px)] md:min-h-[calc(100vh-80px)]
   text-white px-4 pt-20">
