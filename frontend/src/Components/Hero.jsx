@@ -1,5 +1,5 @@
 import React from 'react'
-import bgImage from '../assets/Hero.jpg'
+import bgImage from '../assets/hero.jpg'
 
 
 
