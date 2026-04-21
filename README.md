@@ -17,10 +17,6 @@ https://resturantreservation-ruby.vercel.app/
 - CRUD operations (Create, Read, Update, Delete)
 - Responsive UI for better user experience
 
-
-## 📸 Screenshots
-(Add screenshots here later)
-
 ## 📂 Installation
 
 ### Frontend
